@@ -1,0 +1,28 @@
+name: DavidJohnRobertson
+favicon: null
+layout_spectrum: 0.9736957184504718
+typography_spectrum: 0.381181507371366
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5701523164752871
+  lightness: 0.3595330440439284
+  saturation: 0.8065865114331245
+  rhythmicContrast: 0.7290928817819804
+purpose: []
