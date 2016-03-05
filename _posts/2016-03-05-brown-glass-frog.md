@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T01:05:24.280Z'
-dateModified: '2016-03-05T01:05:02.549Z'
+datePublished: '2016-03-05T01:09:28.029Z'
+dateModified: '2016-03-05T01:09:11.770Z'
 title: Brown Glass Frog
 author: []
+sourcePath: _posts/2016-03-05-brown-glass-frog.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-brown-glass-frog.md
-published: true
 url: brown-glass-frog/index.html
 _type: Article
 
