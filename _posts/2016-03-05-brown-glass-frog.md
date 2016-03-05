@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T01:15:21.181Z'
-dateModified: '2016-03-05T01:09:36.528Z'
+datePublished: '2016-03-05T01:35:04.075Z'
+dateModified: '2016-03-05T01:35:00.506Z'
 title: Brown Glass Frog
 author: []
 sourcePath: _posts/2016-03-05-brown-glass-frog.md
@@ -22,4 +22,4 @@ url: brown-glass-frog/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0635c743-843f-474a-8854-0f0f66db76b2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8392440ab91934018d8a8c6d520a24777cd93c6.jpg)
